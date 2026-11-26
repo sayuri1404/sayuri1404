@@ -4,7 +4,7 @@
 
 I'm a Data Science undergraduate interested in understanding real-world problems through data, statistical analysis, machine learning and software development. I enjoy turning raw information into clear insights and building projects that connect analysis with practical applications.
 
-I'm currently developing my skills through academic projects and looking for internship opportunities in **Data Analytics, Data Science and Data Engineering**.
+I focus on **relational database design and data analysis**: modeling and implementing PostgreSQL schemas end to end, writing the SQL that answers business questions, and turning the results into clear, reproducible analysis. I'm looking for opportunities to lead the database and analytics side of a project.
 
 ## Technical skills
 
@@ -16,19 +16,19 @@ I'm currently developing my skills through academic projects and looking for int
 
 ## Featured projects
 
+### [PetConnect](https://github.com/sayuri1404/PetConnect)
+
+Relational database for a pet rescue and adoption platform: 42 PostgreSQL tables across two schemas, 41 foreign keys, indexes on frequent queries, history and staging tables, and a SEPOMEX postal-code catalog (~9,800 records), consumed by a FastAPI backend with role-based authentication.
+
+**Technologies:** PostgreSQL, SQL, Python, FastAPI, Docker, JavaScript.
+
 ### [Energy Demand Forecasting](https://github.com/sayuri1404/Demanda-energetica)
 
 An academic project focused on exploring and forecasting electricity demand. It covers exploratory data analysis, feature engineering and comparison of regression and forecasting approaches, including linear and polynomial regression, Random Forest, XGBoost and Prophet. The evaluation considers MAE, RMSE and R².
 
 **Technologies:** Python, pandas, scikit-learn, XGBoost, Prophet, Jupyter Notebook.
 
-### [PetConnect](https://github.com/sayuri1404/PetConnect)
-
-An academic database project for a pet rescue and adoption platform. It explores relational data modeling and SQL with PostgreSQL, supported by a Python/FastAPI backend for managing pets, rescue records and adoption-related workflows.
-
-**Technologies:** PostgreSQL, SQL, Python, FastAPI, Docker, JavaScript.
-
-### [Craft Beer Data Analytics Dashboard](https://github.com/sayuri1404/An-litica-de-datos-)
+### [Craft Beer Data Analytics Dashboard](https://github.com/sayuri1404/craft-beer-analytics)
 
 An interactive dashboard for exploring craft beer recipe characteristics, including alcohol content (ABV), bitterness (IBU), color and brewing methods. It uses filters, descriptive indicators and data visualizations to reveal patterns.
 
